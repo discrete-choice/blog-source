@@ -2,8 +2,7 @@
 title: 杜甫江阁
 author: Discrete Choice
 date: '2026-10-18'
-slug: blogdown
-categories: [Personal thoughts]
+categories: [Journey]
 tags: [Travel]
 ---
 ### 江南逢李龟年

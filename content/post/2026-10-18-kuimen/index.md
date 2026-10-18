@@ -2,8 +2,7 @@
 title: 夔门
 author: Discrete Choice
 date: '2025-10-18'
-slug: blogdown
-categories: [Personal thoughts]
+categories: [Journey]
 tags: [Travel]
 ---
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">

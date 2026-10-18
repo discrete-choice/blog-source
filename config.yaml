@@ -12,6 +12,16 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ["\\[", "\\]"]
+            - ["$$", "$$"]
+          inline:
+            - ["\\(", "\\)"]
+            - ["$", "$"]
   highlight:
     noClasses: false
 
@@ -36,6 +46,11 @@ menu:
 
 # 侧边栏、头像等核心参数设置
 params:
+  # 文章页设置
+  article:
+    headingAnchor: false
+    math: true  
+  
   # 底部版权信息
   footer:
     since: 2026
@@ -51,10 +66,6 @@ params:
     subtitle: "我亦是行人"
     avatar: ""
     
-  # 文章页设置
-  article:
-    headingAnchor: false
-
   # 左侧底部小挂件
   widgets:
     homepage:
