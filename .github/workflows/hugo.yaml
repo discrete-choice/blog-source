@@ -29,7 +29,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # 如果你的主题是子模块，需要递归拉取
           fetch-depth: 0
 
       - name: Setup Pages
