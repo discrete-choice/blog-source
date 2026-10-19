@@ -1,5 +1,6 @@
 ---
 title: "Trevor Noah: Daily Social Distancing Show"
+author: Discrete Choice
 date: 2020-08-01
 categories: [Fun]
 tags: [Comedy]

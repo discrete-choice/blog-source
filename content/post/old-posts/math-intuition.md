@@ -1,5 +1,6 @@
 ---
-title: "Intuitions for Eigenvector and Lebesgue Measure "
+title: "Intuitions for Eigenvector and Lebesgue Measure"
+author: Discrete Choice
 date: 2020-08-01
 slug: blogdown
 categories: [Learning]

@@ -1,5 +1,6 @@
 ---
 title: "Intuitions for Probability Theory"
+author: Discrete Choice
 date: 2020-08-01
 math: true
 categories: [Learning]

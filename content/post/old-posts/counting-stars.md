@@ -1,5 +1,6 @@
 ---
 title: "Counting Stars"
+author: Discrete Choice
 date: 2020-08-01
 categories: [Song]
 tags: [Lyrics]
