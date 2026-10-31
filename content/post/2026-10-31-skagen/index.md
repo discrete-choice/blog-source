@@ -5,6 +5,7 @@ date: '2026-10-31'
 slug: skagen
 categories: [Journey]
 tags: [Travel]
+image: "skagen1.jpg" # 或图片的完整URL
 ---
 
 
