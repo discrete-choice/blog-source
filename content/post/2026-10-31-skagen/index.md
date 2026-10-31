@@ -5,9 +5,8 @@ date: '2026-10-31'
 slug: skagen
 categories: [Journey]
 tags: [Travel]
-image: "skagen1.jpg" # cover image
+image: "skagen3.jpg" # cover image
 ---
-
 
 {{< figure src="skagen1.jpg" caption="By Discrete Choice" >}}
 
