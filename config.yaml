@@ -1,12 +1,16 @@
 baseurl: "https://discrete-choice.github.io/"
-languageCode: "zh-cn"
+locale: "zh-cn"
 title: "Discrete Choice"
 theme: "hugo-theme-stack"
 
 # 文章链接格式
 permalinks:
   post: "/post/:year/:month/:day/:slug/"
-
+  
+services:
+  googleAnalytics:
+    id: G-P8TK42J2QY  # 填入你刚刚获取的 GA4 ID
+    
 # 允许 Markdown 中写 HTML
 markup:
   goldmark:
